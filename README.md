@@ -20,6 +20,4 @@ FEATURES TO ADD:
  *  Check lowercase/uppercase letters for player 2
     *  (E.g. Word is: Foo and they type lowercase f --> Should be valid)
 
-Ver 1.0.2
 
-Created by: Tej Vuligonda
